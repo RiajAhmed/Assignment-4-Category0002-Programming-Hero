@@ -18,5 +18,3 @@ function validContact(contact) {
 
   return true;
 }
-const finalContact = validContact(true);
-console.log(finalContact);

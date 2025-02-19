@@ -6,5 +6,3 @@ function calculateVAT(price) {
   }
   return vatAmount;
 }
-const finalPrice = calculateVAT(500);
-console.log(finalPrice);
